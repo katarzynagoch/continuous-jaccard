@@ -24,7 +24,9 @@ JRC-GHSL-DATA@ec.europa.eu
 ## Authors and acknowledgment
 Katarzyna Krasnodębska, Institute of Geography and Spatial Organization PAS
 
-Martino Pesaresi, Unit E.1, Joint Research Centre, European Commission, 2024.
+Martino Pesaresi, Unit E.1, Joint Research Centre, European Commission
+
+2024
 
 ## License
 XXX
