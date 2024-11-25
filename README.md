@@ -16,7 +16,7 @@ No installation required. The script Python-continuous-measures.py can be run in
 Cont. Precision, cont. Recall, cont. Jaccard and cont. F1-score are suitable measures for estimating the accuracy of gridded datasets representing unevenly distributed and dispersed attributes at the ratio scale. They can be used for comparing gridded datasets of attributes at the ratio scale, which include absolute or relative estimates (e.g. canopy height or built-up surface density), but can also be applied to any non-spatial, ratio-scale data.  
 
 ## Publication
-Pre-print available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865121
+Pre-print describing the utility of the proposed measures is available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865121
 
 ## Contact
 JRC-GHSL-DATA@ec.europa.eu
