@@ -22,7 +22,9 @@ Pre-print available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865
 JRC-GHSL-DATA@ec.europa.eu
 
 ## Authors and acknowledgment
-Katarzyna Krasnodębska, Martino Pesaresi, Unit E.1, Joint Research Centre, European Commission, 2024.
+Katarzyna Krasnodębska, Institute of Geography and Spatial Organization PAS
+
+Martino Pesaresi, Unit E.1, Joint Research Centre, European Commission, 2024.
 
 ## License
 XXX
