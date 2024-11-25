@@ -7,6 +7,8 @@ Gridded data representing attribute estimates at ratio scale are increasingly co
 
 The data provided in this repository allows for computing the measures of agreement between gridded datasets, stored as numpy arrays ar R matrices. Code examples showcase how to compute measures of error (Mean Error and Mean Absolute Error), measures of assositation (Pearson's correlation coefficient and slope of linear regression) and the four introdcued measures of sgreement: Precision, cont. Recall, cont. Jaccard and cont. F1-score, between two 5x5 grids, storing randomly generated non-negative continuous values.
 
+![alt text](http://url/to/img.png](https://github.com/katarzynagoch/PRERION/blob/main/measures.jpg))
+
 ## Installation
 No installation required. The script Python-continuous-measures.py can be run in any Python environment (tested in Python 3.9 only). Dependencies (i.e., matplotlib, numpy, random) must be available. The script R-continuous-measures.R can be run in any Python environment (tested in R 4.4.2), no additional dependencies are required.
 
