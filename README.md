@@ -1,5 +1,5 @@
 # Precision, Recall, F-score, and Jaccard Index for continuous, ratio-scale measurements
-Variants of four agreement measures (Jaccard, Precision, Recall and F-score), applicable to data representing estimates of attributes at the ratio scale.
+Variants of four agreement measures (Jaccard, Precision, Recall and F-score) applicable to data representing estimates of attributes at the ratio scale.
 These measures can be used to estimate closeness of the continuous (cont.) attribute magnitude estimates and serve as viable equivalents of their common categorical counterparts.
 
 ## About
