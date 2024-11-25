@@ -88,7 +88,7 @@ def fscore(_precision, _recall, beta):
     else:
         return (1+beta*beta)*_precision*_recall/((beta*beta*_precision)+_recall)
 
-# Generate two arrays, reference and modelled, with continuous, ratio-scle, non-negative measurements
+# Generate two arrays, reference and modelled, with continuous, ratio-scale, non-negative measurements
 N=5
 example = {
     'reference':np.array([[np.round(random.random(),2) for i in range(N)] for j in range(N)])*10,
