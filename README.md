@@ -19,7 +19,7 @@ Cont. Precision, cont. Recall, cont. Jaccard and cont. F1-score are suitable mea
 Pre-print describing the utility of the proposed measures is available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865121
 
 ## Contact
-JRC-GHSL-DATA@ec.europa.eu
+katarzyna.krasnodebska@twarda.pan.pl
 
 ## Authors and acknowledgment
 Katarzyna Krasnodębska, Institute of Geography and Spatial Organization PAS
@@ -27,6 +27,3 @@ Katarzyna Krasnodębska, Institute of Geography and Spatial Organization PAS
 Martino Pesaresi, Unit E.1, Joint Research Centre, European Commission
 
 2024
-
-## License
-XXX
