@@ -23,7 +23,7 @@ matplotlib.rcParams['font.family'] = "sans-serif"
 intif = r'aoi2_Brazil_REF_10.tif'
 outdir = r'.\results'
 if not os.path.exists(outdir):
-    os.makedirs(outdir)
+    os.makedir(outdir)
 
 ##### function to produce synthetic densities drawn from a skewed normal distribution #####
 def randn_skew_fast(N, alpha=0.0, loc=0.0, scale=1.0):
