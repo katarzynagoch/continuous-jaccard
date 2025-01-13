@@ -12,7 +12,7 @@ The data provided in this repository allows for computing the measures of agreem
 ![continuous agreement measures](https://github.com/katarzynagoch/PRERION/blob/main/example.jpg)
 
 ## Installation
-No installation required. The script Python-continuous-measures.py can be run in any Python environment (tested in Python 3.9 only). Dependencies (i.e., matplotlib, numpy, random) must be available. The script R-continuous-measures.R can be run in any Python environment (tested in R 4.4.2), no additional dependencies are required.
+No installation required. The script Python-continuous-measures.py can be run in any Python environment (tested in Python 3.9 only). Dependencies (i.e., matplotlib, numpy, random) must be available. The script R-continuous-measures.R can be run in any R environment (tested in R 4.4.2), no additional dependencies are required.
 
 ## Usage
 Cont. Precision, cont. Recall, cont. Jaccard and cont. F1-score are suitable measures for estimating the accuracy of gridded datasets representing unevenly distributed and dispersed attributes at the ratio scale. They can be used for comparing gridded datasets of attributes at the ratio scale, which include absolute or relative estimates (e.g. canopy height or built-up surface density), but can also be applied to any non-spatial, ratio-scale data.  
